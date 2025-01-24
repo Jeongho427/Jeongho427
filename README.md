@@ -45,6 +45,30 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
 ---
-## 🗂️ Portfolio  
+## 🗂️  Project 
 
-### 📌 Project
+### 🚀 숭실대학교
+
+| No. | 프로젝트 이름 | 설명 | 주요 기술 | 기간 | Repo |
+|-----|-----------|-----|---------|------|------|
+| 1   | Recipable | 영수증 텍스트 추출을 통한 레시피 추천 서비스 | Spring Boot, MySQL, Naver OCR, CHAT GPT4 API, Python | 2024.03.01 ~ 2024.06.24 | [Link](https://github.com/ssu-Recipable/BackEnd) |
+| 2   | DeveloperMatching | 사용자 맞춤형 개발자 매칭 서비스 | Spring Boot, MySQL | 2023.08.28 ~ 2023.12.15 | [Link](https://github.com/SSUDM/BackEnd) |
+| 3   | 무인매장방범대    | 무인매장 이상행위 탐지 프로젝트 | Yolo, Roboflow, Python, SMTP | 2023.03.01 ~ 2023.06.15 | [Link](https://github.com/MooinBoanBangwidae) |
+
+### 🚀 한국대학생IT경영학회 KUSITMS
+
+| No. | 프로젝트 이름 | 설명 | 주요 기술 | 기간 | Repo |
+|-----|-----------|-----|---------|------|------|
+| 1   | 또바       | 시니어의 사회적 관계 형성을 도와 활기찬 사회활동을 지속할 수 있게 도와주는 서비스 | Spring Boot, QueryDsl, MySQL, Git | 2024.04.05 ~ 2024.06.01 | [Link](https://github.com/Kusitms-29th-Meetup-TeamE) |
+| 2   | 도파ME     | "트렌드 코리아 2024" 10대 키워드 해커톤에서 "도파밍"을 주제로 사용자의 성장을 도와주는 서비스 개발 | Spring Boot, Docker, AWS, Github Actions | 2024.04.06 ~ 2024.04.07 | [Link](https://github.com/Kusitms-29th-Hackathon-E/backend) |
+| 3   | 기업 프로젝트 | AI 기반 콘텐츠 큐레이팅 회사의 UX/UI 개선 및 서비스 구현 프로젝트 | Spring Boot, MySQL, Docker, AWS | 2024.02.23 ~ 2024.03.15 | [Link](https://github.com/Kusitms-29th-Soullive-C/backend) |
+
+### 💡 기타 프로젝트
+
+| No. | 프로젝트 이름 | 설명 | 주요 기술 | Repo |
+|-----|-----------|-----|---------|------|
+
+
+---
+
+### 📌 Portfolio
