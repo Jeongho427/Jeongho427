@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - **한국대학생IT경영학회**  
   2024.02 ~ 2024.06  
 
-- **우리FISA 4기 클라우드 엔지니어링**
+- **우리FISA 4기 클라우드 엔지니어링**  
   2024.12 ~ now
 
 ---
