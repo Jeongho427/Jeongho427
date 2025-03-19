@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Experience  
-- **숭실대학교 소프트웨어학부**  
+- **숭실대학교 소프트웨어학부 / 정보보호융합**  
   2019.03 ~ now  
 
 - **한국대학생IT경영학회 (KUSITMS)**  
