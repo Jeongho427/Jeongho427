@@ -78,6 +78,12 @@ Here are some ideas to get you started:
 ### 💻 우리FISA 4기
 | No. | 프로젝트 이름 | 설명 | 주요 기술 | 기간 | Repo |
 |-----|-----------|-----|---------|------|------|
+| 1  | DoTheG | 전 세계 다양한 언어를 학습하고 여행을 준비할 수 있도록 돕는 데모 웹 플랫폼 | HTML, CSS, Javascript, Oracle, Java, Apache Tomcat | 2025.02.06 ~ 2025.02.10 | [Link](https://github.com/4P-Ns/DoTheG) |
+| 2  | Wooritto | 실제 카드 데이터를 기반으로 VVIP/VIP의 카드 사용 내역을 분석하여 하위 등급 회원들의 카드 사용을 촉진시키기 위한 전략 수립 및 데이터 분석 | MySQL, Linux, Elasticsearch, Logstash, Kibana | 2025.01.24 ~ 2025.01.25 | [Link](https://github.com/4P-Ns/Wooritto) | 
+| 3  | Catch your Log, 이탈자 방지와 이상 탐지를 한 번에 | 시스템 로그를 분석하여 이탈자 탐지와 이상 행동을 식별, 로그 데이터를 기반으로 사용자 행동과 에러 발생 패턴을 시각화하고,
+서비스의 품질 향상을 위한 통찰 제공 | MySQL, Linux, Elasticsearch, Kibana | 2025.01.21 ~ 2025.01.22 | [Link](https://github.com/4P-Ns/C-Radar?tab=readme-ov-file) | 
+| 4   | 영화 서비스 SQL문 실전 예제 만들기 | 영화 예매자 데이터를 활용한 사용자 데이터 분석 및 자동화된 마케팅 서비스 쿼리문 개발 | VirtualBox, Mobaxterm, Linux, DBeaver, MySQL | 2025.01.13 ~ 2025.01.17 | [Link](https://github.com/FISA-4th-4MEN/Movie_Reservation) | 
+| 5   | 맛집 리뷰 관리 프로그램 | 맛집 리뷰를 저장하고, 다양한 기준으로 정렬하여 한눈에 리뷰를 확인할 수 있는 맛집 리뷰 관리 프로그램 | Java, MySQL, Linux, Github, JUnit4 | 2025.01.10 ~ 2025.01.16 | [Link](https://github.com/FISAFirstMeet/RestaurantReview) | 
 
 ### 💡 기타 프로젝트
 
