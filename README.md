@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 **📬 Messaging / Streaming**
 
-<img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=Apache Kafka&logoColor=white"> 
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
 
 **📊 Monitoring / Logging**
 
