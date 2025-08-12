@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
 
 **📬 Messaging / Streaming**
+
 <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=Apache Kafka&logoColor=white"> 
 
 **📊 Monitoring / Logging**
