@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   2024.02 ~ 2024.06  
 
 - **우리FISA 4기 클라우드 엔지니어링**  
-  2024.12 ~ now
+  2024.12 ~ 2025.06
 
 ---
 
