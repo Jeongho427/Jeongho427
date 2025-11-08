@@ -99,3 +99,4 @@ Here are some ideas to get you started:
 ---
 
 ### 📌 Portfolio
+[Link](https://hawi-bougon-ba3.notion.site/29880ecee3b68091ab3bd2bbdeeec5f6)
