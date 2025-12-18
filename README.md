@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 |-----|-----------|-----|---------|------|------|
 | 1   | Recipable | 영수증 텍스트 추출을 통한 레시피 추천 서비스 | Spring Boot, MySQL, AWS, Docker, Nginx, Naver OCR, CHAT GPT4 API, Python | 2024.03.01 ~ 2024.06.24 | [Link](https://github.com/ssu-Recipable/BackEnd) |
 | 2   | DeveloperMatching | 사용자 맞춤형 개발자 매칭 서비스 | Spring Boot, MySQL | 2023.08.28 ~ 2023.12.15 | [Link](https://github.com/SSUDM/BackEnd) |
-| 3   | 무인매장방범대    | 무인매장 이상행위 탐지 프로젝트 | Yolo, Roboflow, Python, SMTP | 2023.03.01 ~ 2023.06.15 | [Link](https://github.com/MooinBoanBangwidae) |
 
 ### 🚀 한국대학생IT경영학회 KUSITMS
 
