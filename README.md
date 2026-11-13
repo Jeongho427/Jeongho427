@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Experience  
-- **숭실대학교 소프트웨어학부 / 정보보호융합**  
+- **OO대학교 소프트웨어학부 / 정보보호융합**  
   2019.03 ~ 2026.02
 
 - **한국대학생IT경영학회 (KUSITMS)**  
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ---
 ## 🗂️  Project 
 
-### 🏫 숭실대학교
+### 🏫 OO대학교
 
 | No. | 프로젝트 이름 | 설명 | 주요 기술 | 기간 | Repo |
 |-----|-----------|-----|---------|------|------|
